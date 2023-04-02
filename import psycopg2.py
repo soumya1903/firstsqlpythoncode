@@ -5,6 +5,7 @@ import psycopg2
 # changing this code on local machine first time after creating repository in github
 # changing this code on github
 # changing this code on github secondtime
+# changing this code on local machine second time
 conn = psycopg2.connect(
     database="test",
     user="postgres",
