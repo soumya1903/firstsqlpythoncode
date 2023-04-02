@@ -19,4 +19,5 @@ $$
 
 
 
+SELECT * from car_count('Audi');
 SELECT * from car_count('Volvo');
