@@ -2,6 +2,7 @@ import psycopg2
 #from config import config
 
 # first comment
+# changing this code on local machine first time after creating repository in github
 conn = psycopg2.connect(
     database="test",
     user="postgres",
