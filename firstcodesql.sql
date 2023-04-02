@@ -27,3 +27,5 @@ SELECT * from car_count('Volvo');
 #changing on github for branch changesqlpythoncode
 
 #changing on local machine for branch changesqlpythoncode
+
+# adding line to fix bug
